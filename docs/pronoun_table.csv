@@ -1,0 +1,10 @@
+Person/Number,SG,DU,PL,paradigm_tag,overabundance_tag
+1,n i ⁵,NA,n i ⁵ + h i ⁵ n,default,NA
+INCL,NA,a ¹ n i ⁵,NA,unspec_var,optional_plural
+INCL,NA,n a ¹ n i ⁵,NA,unspec_var,optional_plural
+INCL,NA,a ¹ n i ⁵ + h i ⁵ n,NA,pragm_marked,NA
+INCL,NA,n a ¹ n i ⁵ + h i ⁵ n,NA,pragm_marked,NA
+INCL,NA,NA,a ¹ n i ⁵ + h i ⁵ n,unspec_var,NA
+INCL,NA,NA,n a ¹ n i ⁵ + h i ⁵ n,unspec_var,NA
+2,n a ⁵ ŋ,NA,n a ⁵ ŋ + h i ⁵ n,default,NA
+3,a ¹ m a ⁵,NA,a ¹ m a ⁵ + h i ⁵ n,default,NA

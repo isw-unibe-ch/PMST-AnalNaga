@@ -1,0 +1,13 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,analnaga
+incl,inclusive,clusivity,INCL,analnaga
+du,dual,number,DU,analnaga
+pl,plural,number,PL,analnaga
+sg,singular,number,SG,analnaga
+1,first person,person,1,analnaga
+2,second person,person,2,analnaga
+3,third person,person,3,analnaga
+aff,affirmative,polarity,POS,analnaga
+neg,negative,polarity,NEG,analnaga
+fut,future,tense_aspect,FUT,analnaga
+nfut,non-future,tense_aspect,,analnaga

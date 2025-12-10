@@ -1,0 +1,312 @@
+form_id,lexeme,cell,source_form,orth_form,phon_form,analysed_orth_form,analysed_phon_form,paradigm_tag,tense_tag,morphanalysis_tag,overabundance_tag,source,page,language_id
+analnaga001,no_stem,1.sg,ní,ní,n i ⁵,ní,n i ⁵,default,,,,Ozerov2019Anal,27,analnaga
+analnaga002,no_stem,1.du.incl,àní,àní,a ¹ n i ⁵,àní,a ¹ n i ⁵,unspec_var,,,optional_plural,Ozerov2021Multiple,175-204,analnaga
+analnaga003,no_stem,1.du.incl,àní-hín,àníhín,a ¹ n i ⁵ h i ⁵ n,àní+hín,a ¹ n i ⁵ + h i ⁵ n,pragm_marked,,,,Ozerov2021Multiple,175-204,analnaga
+analnaga004,no_stem,1.du.incl,nàní,nàní,n a ¹ n i ⁵,nàní,n a ¹ n i ⁵,unspec_var,,,optional_plural,Ozerov2021Multiple,175-204,analnaga
+analnaga005,no_stem,1.du.incl,nàní-hín,nàníhín,n a ¹ n i ⁵ h i ⁵ n,nàní+hín,n a ¹ n i ⁵ + h i ⁵ n,pragm_marked,,,,Ozerov2021Multiple,175-204,analnaga
+analnaga006,no_stem,1.pl.excl,ní-hín,níhín,n i ⁵ h i ⁵ n,ní+hín,n i ⁵ + h i ⁵ n,default,,,,Ozerov2019Anal,27,analnaga
+analnaga007,no_stem,1.pl.incl,àní-hín,àníhín,a ¹ n i ⁵ h i ⁵ n,àní+hín,a ¹ n i ⁵ + h i ⁵ n,unspec_var,,,,Ozerov2021Multiple,175-204,analnaga
+analnaga008,no_stem,1.pl.incl,nàní-hín,nàníhín,n a ¹ n i ⁵ h i ⁵ n,nàní+hín,n a ¹ n i ⁵ + h i ⁵ n,unspec_var,,,,Ozerov2021Multiple,175-204,analnaga
+analnaga009,no_stem,2.sg,náŋ,náŋ,n a ⁵ ŋ,náŋ,n a ⁵ ŋ,default,,,,Ozerov2019Anal,27,analnaga
+analnaga010,no_stem,2.pl,náŋ-hín,náŋhín,n a ⁵ ŋ h i ⁵ n,náŋ+hín,n a ⁵ ŋ + h i ⁵ n,default,,,,Ozerov2019Anal,27,analnaga
+analnaga011,no_stem,3.sg,àmá,àmá,a ¹ m a ⁵,àmá,a ¹ m a ⁵,default,,,,Ozerov2019Anal,27,analnaga
+analnaga012,no_stem,3.pl,àmá-hín,àmáhín,a ¹ m a ⁵ h i ⁵ n,àmá+hín,a ¹ m a ⁵ + h i ⁵ n,default,,,,Ozerov2019Anal,27,analnaga
+analnaga013,tʰa,1.sg.fut.aff,ʈʰáː-ká-níŋ,Σkáníŋ,Σ k a ⁵ n i ⁵ ŋ,Σ+ká+níŋ,Σ + k a ⁵ + n i ⁵ ŋ,default,,special_stem,,Ozerov2019Anal,39,analnaga
+analnaga014,tʰa,1.du.incl.fut.aff,ʈʰà-tɕəká,Σtɕəká,Σ ts ə k a ⁵,Σ+tɕəká,Σ + ts ə k a ⁵,hort,,,,Ozerov2019Anal,39,analnaga
+analnaga015,tʰa,1.pl.excl.fut.aff,ʈʰà-hín-ká-níŋ,Σhínkáníŋ,Σ h i ⁵ n k a ⁵ n i ⁵ ŋ,Σ+hín+ká+níŋ,Σ + h i ⁵ n + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2019Anal,39,analnaga
+analnaga016,tʰa,1.pl.incl.fut.aff,ʈʰà-hín-tɕəká,Σhíntɕəká,Σ h i ⁵ n ts ə k a ⁵,Σ+hín+tɕəká,Σ + h i ⁵ n + ts ə k a ⁵,default,,,,Ozerov2019Anal,39,analnaga
+analnaga017,ta,1.sg.2.sg.fut.aff,a-ː-táː-ká-níŋ,aːΣkáníŋ,aa Σ k a ⁵ n i ⁵ ŋ,aː+Σ+ká+níŋ,aa + Σ + k a ⁵ + n i ⁵ ŋ,default,,special_stem,,Ozerov2025Anal,250423,analnaga
+analnaga018,ta,1.sg.2.pl.fut.aff,a-ː-tà-hín-ká-níŋ,aːΣhínkáníŋ,aa Σ h i ⁵ n k a ⁵ n i ⁵ ŋ,aː+Σ+hín+ká+níŋ,aa + Σ + h i ⁵ n + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga019,ta,1.pl.excl.2.sg.fut.aff,a-ː-tà-hín-ká-níŋ,aːΣhínkáníŋ,aa Σ h i ⁵ n k a ⁵ n i ⁵ ŋ,aː+Σ+hín+ká+níŋ,aa + Σ + h i ⁵ n + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga020,ta,1.pl.excl.2.pl.fut.aff,a-ː-tà-hín-ká-níŋ,aːΣhínkáníŋ,aa Σ h i ⁵ n k a ⁵ n i ⁵ ŋ,aː+Σ+hín+ká+níŋ,aa + Σ + h i ⁵ n + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga021,ta,1.sg.3.sg.fut.aff,táː-ká-níŋ,Σkáníŋ,Σ k a ⁵ n i ⁵ ŋ,Σ+ká+níŋ,Σ + k a ⁵ + n i ⁵ ŋ,default,,special_stem,,Ozerov2025Anal,250423,analnaga
+analnaga022,ta,1.sg.3.pl.fut.aff,tà-jéː-ká-níŋ,Σjéːkáníŋ,Σ j ee ⁵ k a ⁵ n i ⁵ ŋ,Σ+jéː+ká+níŋ,Σ + j ee ⁵ + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga023,ta,1.du.incl.3.sg.fut.aff,tà-tɕəká,Σtɕəká,Σ ts ə k a ⁵,Σ+tɕəká,Σ + ts ə k a ⁵,hort,,,,Ozerov2025Anal,250609,analnaga
+analnaga024,ta,1.du.incl.3.pl.fut.aff,tà-jè-tɕəká,Σjètɕəká,Σ j e ¹ ts ə k a ⁵,Σ+jè+tɕəká,Σ + j e ¹ + ts ə k a ⁵,hort,,,,Ozerov2025Anal,250609,analnaga
+analnaga025,ta,1.pl.excl.3.sg.fut.aff,tà-hín-ká-níŋ,Σhínkáníŋ,Σ h i ⁵ n k a ⁵ n i ⁵ ŋ,Σ+hín+ká+níŋ,Σ + h i ⁵ n + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga026,ta,1.pl.incl.3.sg.fut.aff,tà-hìn-tɕəká,Σhìntɕəká,Σ h i ¹ n ts ə k a ⁵,Σ+hìn+tɕəká,Σ + h i ¹ n + ts ə k a ⁵,hort,,,,Ozerov2025Anal,250423,analnaga
+analnaga027,ta,1.pl.excl.3.pl.fut.aff,tà-hín-ká-níŋ,Σhínkáníŋ,Σ h i ⁵ n k a ⁵ n i ⁵ ŋ,Σ+hín+ká+níŋ,Σ + h i ⁵ n + k a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga028,ta,1.pl.excl.3.pl.fut.aff,tà-jé-ká-níŋ,Σjékáníŋ,Σ j e ⁵ k a ⁵ n i ⁵ ŋ,Σ+jé+ká+níŋ,Σ + j e ⁵ + k a ⁵ + n i ⁵ ŋ,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga029,ta,1.pl.incl.3.pl.fut.aff,tà-hìn-tɕəká,Σhìntɕəká,Σ h i ¹ n ts ə k a ⁵,Σ+hìn+tɕəká,Σ + h i ¹ n + ts ə k a ⁵,hort,,,,Ozerov2025Anal,250423,analnaga
+analnaga030,tʰa,2.sg.fut.aff,ʈʰáː-ká-tí,Σkátí,Σ k a ⁵ t i ⁵,Σ+ká+tí,Σ + k a ⁵ + t i ⁵,default,,special_stem,,Ozerov2019Anal,39,analnaga
+analnaga031,tʰa,2.pl.fut.aff,ʈʰà-hín-ká-tí,Σhínkátí,Σ h i ⁵ n k a ⁵ t i ⁵,Σ+hín+ká+tí,Σ + h i ⁵ n + k a ⁵ + t i ⁵,default,,,,Ozerov2019Anal,39,analnaga
+analnaga032,ta,2.sg.1.sg.fut.aff,ka-ː-táː-ká-tí,kaːΣkátí,k aa Σ k a ⁵ t i ⁵,kaː+Σ+ká+tí,k aa + Σ + k a ⁵ + t i ⁵,default,,special_stem,,Ozerov2025Anal,250423,analnaga
+analnaga033,ta,2.sg.1.pl.excl.fut.aff,ka-ː-tà-hín-ká-tí,kaːΣhínkátí,k aa Σ h i ⁵ n k a ⁵ t i ⁵,kaː+Σ+hín+ká+tí,k aa + Σ + h i ⁵ n + k a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250613,analnaga
+analnaga034,ta,2.pl.1.sg.fut.aff,ka-ː-tà-hín-ká-tí,kaːΣhínkátí,k aa Σ h i ⁵ n k a ⁵ t i ⁵,kaː+Σ+hín+ká+tí,k aa + Σ + h i ⁵ n + k a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga035,ta,2.pl.1.pl.excl.fut.aff,ka-ː-tà-hín-ká-tí,kaːΣhínkátí,k aa Σ h i ⁵ n k a ⁵ t i ⁵,kaː+Σ+hín+ká+tí,k aa + Σ + h i ⁵ n + k a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga036,ta,2.sg.3.sg.fut.aff,táː-ká-tí,Σkátí,Σ k a ⁵ t i ⁵,Σ+ká+tí,Σ + k a ⁵ + t i ⁵,default,,special_stem,,Ozerov2025Anal,250423,analnaga
+analnaga037,ta,2.sg.3.pl.fut.aff,tà-jéː-ká-tí,Σjéːkátí,Σ j ee ⁵ k a ⁵ t i ⁵,Σ+jéː+ká+tí,Σ + j ee ⁵ + k a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga038,ta,2.pl.3.sg.fut.aff,tà-hín-ká-tí,Σhínkátí,Σ h i ⁵ n k a ⁵ t i ⁵,Σ+hín+ká+tí,Σ + h i ⁵ n + k a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga039,ta,2.pl.3.pl.fut.aff,tà-hín-ká-tí,Σhínkátí,Σ h i ⁵ n k a ⁵ t i ⁵,Σ+hín+ká+tí,Σ + h i ⁵ n + k a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga040,ta,2.pl.3.pl.fut.aff,tà-jé-ká-tí,Σjékátí,Σ j e ⁵ k a ⁵ t i ⁵,Σ+jé+ká+tí,Σ + j e ⁵ + k a ⁵ + t i ⁵,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga041,tʰa,3.sg.fut.aff,ʈʰà-nà-ká,Σnàká,Σ n a ¹ k a ⁵,Σ+nà+ká,Σ + n a ¹ + k a ⁵,default,,,,Ozerov2019Anal,39,analnaga
+analnaga042,tʰa,3.pl.fut.aff,ʈʰà-jè-ná-ká,Σjènáká,Σ j e ¹ n a ⁵ k a ⁵,Σ+jè+ná+ká,Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2019Anal,39,analnaga
+analnaga043,ta,3.sg.1.sg.fut.aff,ka-ː-tà-nà-ká,kaːΣnàká,k aa Σ n a ¹ k a ⁵,kaː+Σ+nà+ká,k aa + Σ + n a ¹ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga044,ta,3.sg.1.du.incl.fut.aff,na-ː-tà-nà-ká,naːΣnàká,n aa Σ n a ¹ k a ⁵,naː+Σ+nà+ká,n aa + Σ + n a ¹ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga045,ta,3.sg.1.pl.excl.fut.aff,ka-ː-tà-hìn-ná-ká,kaːΣhìnnáká,k aa Σ h i ¹ n n a ⁵ k a ⁵,kaː+Σ+hìn+ná+ká,k aa + Σ + h i ¹ n + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga046,ta,3.sg.1.pl.incl.fut.aff,na-ː-tà-hìn-ná-ká,naːΣhìnnáká,n aa Σ h i ¹ n n a ⁵ k a ⁵,naː+Σ+hìn+ná+ká,n aa + Σ + h i ¹ n + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga047,ta,3.pl.1.sg.fut.aff,ka-ː-tà-jè-ná-ká,kaːΣjènáká,k aa Σ j e ¹ n a ⁵ k a ⁵,kaː+Σ+jè+ná+ká,k aa + Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga048,ta,3.pl.1.du.incl.fut.aff,na-ː-tà-jè-ná-ká,naːΣjènáká,n aa Σ j e ¹ n a ⁵ k a ⁵,naː+Σ+jè+ná+ká,n aa + Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga049,ta,3.pl.1.pl.excl.fut.aff,ka-ː-tà-hìn-ná-ká,kaːΣhìnnáká,k aa Σ h i ¹ n n a ⁵ k a ⁵,kaː+Σ+hìn+ná+ká,k aa + Σ + h i ¹ n + n a ⁵ + k a ⁵,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga050,ta,3.pl.1.pl.excl.fut.aff,ka-ː-tà-jè-ná-ká,kaːΣjènáká,k aa Σ j e ¹ n a ⁵ k a ⁵,kaː+Σ+jè+ná+ká,k aa + Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga051,ta,3.pl.1.pl.incl.fut.aff,na-ː-tà-hìn-ná-ká,naːΣhìnnáká,n aa Σ h i ¹ n n a ⁵ k a ⁵,naː+Σ+hìn+ná+ká,n aa + Σ + h i ¹ n + n a ⁵ + k a ⁵,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga052,ta,3.pl.1.pl.incl.fut.aff,na-ː-tà-jè-ná-ká,naːΣjènáká,n aa Σ j e ¹ n a ⁵ k a ⁵,naː+Σ+jè+ná+ká,n aa + Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga053,ta,3.sg.2.sg.fut.aff,a-ː-tà-nà-ká,aːΣnàká,aa Σ n a ¹ k a ⁵,aː+Σ+nà+ká,aa + Σ + n a ¹ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga054,ta,3.sg.2.pl.fut.aff,a-ː-tà-hìn-ná-ká,aːΣhìnnáká,aa Σ h i ¹ n n a ⁵ k a ⁵,aː+Σ+hìn+ná+ká,aa + Σ + h i ¹ n + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga055,ta,3.pl.2.sg.fut.aff,a-ː-tà-jè-ná-ká,aːΣjènáká,aa Σ j e ¹ n a ⁵ k a ⁵,aː+Σ+jè+ná+ká,aa + Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga056,ta,3.pl.2.pl.fut.aff,a-ː-tà-hìn-ná-ká,aːΣhìnnáká,aa Σ h i ¹ n n a ⁵ k a ⁵,aː+Σ+hìn+ná+ká,aa + Σ + h i ¹ n + n a ⁵ + k a ⁵,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga057,ta,3.pl.2.pl.fut.aff,a-ː-tà-jè-ná-ká,aːΣjènáká,aa Σ j e ¹ n a ⁵ k a ⁵,aː+Σ+jè+ná+ká,aa + Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga058,ta,3.sg.3.sg.fut.aff,tà-nà-ká,Σnàká,Σ n a ¹ k a ⁵,Σ+nà+ká,Σ + n a ¹ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga059,ta,3.sg.3.pl.fut.aff,tà-jè-ná-ká,Σjènáká,Σ j e ¹ n a ⁵ k a ⁵,Σ+jè+ná+ká,Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga060,ta,3.pl.3.sg.fut.aff,tà-jè-ná-ká,Σjènáká,Σ j e ¹ n a ⁵ k a ⁵,Σ+jè+ná+ká,Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga061,ta,3.pl.3.pl.fut.aff,tà-jè-ná-ká,Σjènáká,Σ j e ¹ n a ⁵ k a ⁵,Σ+jè+ná+ká,Σ + j e ¹ + n a ⁵ + k a ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga062,tʰa,1.sg.fut.neg,ʈʰà-nà-má-níŋ,Σnàmáníŋ,Σ n a ¹ m a ⁵ n i ⁵ ŋ,Σ+nà+má+níŋ,Σ + n a ¹ + m a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga063,tʰa,1.du.incl.fut.neg,ʈʰà-nà-má-sín,Σnàmásín,Σ n a ¹ m a ⁵ s i ⁵ n,Σ+nà+má+sín,Σ + n a ¹ + m a ⁵ + s i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga064,tʰa,1.pl.excl.fut.neg,ʈʰà-nà-má-hín-níŋ,Σnàmáhínníŋ,Σ n a ¹ m a ⁵ h i ⁵ n n i ⁵ ŋ,Σ+nà+má+hín+níŋ,Σ + n a ¹ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga065,tʰa,1.pl.incl.fut.neg,ʈʰà-nà-má-hín-sín,Σnàmáhínsín,Σ n a ¹ m a ⁵ h i ⁵ n s i ⁵ n,Σ+nà+má+hín+sín,Σ + n a ¹ + m a ⁵ + h i ⁵ n + s i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga066,ta,1.sg.2.sg.fut.neg,a-ː-tà-nà-má-níŋ,aːΣnàmáníŋ,aa Σ n a ¹ m a ⁵ n i ⁵ ŋ,aː+Σ+nà+má+níŋ,aa + Σ + n a ¹ + m a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga067,ta,1.sg.2.pl.fut.neg,a-ː-tà-nà-má-hín-níŋ,aːΣnàmáhínníŋ,aa Σ n a ¹ m a ⁵ h i ⁵ n n i ⁵ ŋ,aː+Σ+nà+má+hín+níŋ,aa + Σ + n a ¹ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga068,ta,1.sg.3.pl.fut.neg,tà-nà-má-jé-níŋ,Σnàmájéníŋ,Σ n a ¹ m a ⁵ j e ⁵ n i ⁵ ŋ,Σ+nà+má+jé+níŋ,Σ + n a ¹ + m a ⁵ + j e ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga069,ta,1.pl.excl.2.sg.fut.neg,a-ː-tà-nà-má-hín-níŋ,aːΣnàmáhínníŋ,aa Σ n a ¹ m a ⁵ h i ⁵ n n i ⁵ ŋ,aː+Σ+nà+má+hín+níŋ,aa + Σ + n a ¹ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga070,ta,1.pl.excl.2.pl.fut.neg,a-ː-tà-nà-má-hín-níŋ,aːΣnàmáhínníŋ,aa Σ n a ¹ m a ⁵ h i ⁵ n n i ⁵ ŋ,aː+Σ+nà+má+hín+níŋ,aa + Σ + n a ¹ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga071,ta,1.sg.3.sg.fut.neg,tà-nà-má-níŋ,Σnàmáníŋ,Σ n a ¹ m a ⁵ n i ⁵ ŋ,Σ+nà+má+níŋ,Σ + n a ¹ + m a ⁵ + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga072,ta,1.du.incl.3.sg.fut.neg,tà-nà-má-sín,Σnàmásín,Σ n a ¹ m a ⁵ s i ⁵ n,Σ+nà+má+sín,Σ + n a ¹ + m a ⁵ + s i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga073,ta,1.du.incl.3.pl.fut.neg,tà-nà-má-jé-sín,Σnàmájésín,Σ n a ¹ m a ⁵ j e ⁵ s i ⁵ n,Σ+nà+má+jé+sín,Σ + n a ¹ + m a ⁵ + j e ⁵ + s i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga074,ta,1.pl.excl.3.sg.fut.neg,tà-nà-má-hín-níŋ,Σnàmáhínníŋ,Σ n a ¹ m a ⁵ h i ⁵ n n i ⁵ ŋ,Σ+nà+má+hín+níŋ,Σ + n a ¹ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga075,ta,1.pl.incl.3.sg.fut.neg,tà-nà-má-hín-sín,Σnàmáhínsín,Σ n a ¹ m a ⁵ h i ⁵ n s i ⁵ n,Σ+nà+má+hín+sín,Σ + n a ¹ + m a ⁵ + h i ⁵ n + s i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga076,ta,1.pl.excl.3.pl.fut.neg,tà-nà-má-hín-níŋ,Σnàmáhínníŋ,Σ n a ¹ m a ⁵ h i ⁵ n n i ⁵ ŋ,Σ+nà+má+hín+níŋ,Σ + n a ¹ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga077,ta,1.pl.excl.3.pl.fut.neg,tà-nà-má-jé-níŋ,Σnàmájéníŋ,Σ n a ¹ m a ⁵ j e ⁵ n i ⁵ ŋ,Σ+nà+má+jé+níŋ,Σ + n a ¹ + m a ⁵ + j e ⁵ + n i ⁵ ŋ,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga078,ta,1.pl.incl.3.pl.fut.neg,tà-nà-má-hín-sín,Σnàmáhínsín,Σ n a ¹ m a ⁵ h i ⁵ n s i ⁵ n,Σ+nà+má+hín+sín,Σ + n a ¹ + m a ⁵ + h i ⁵ n + s i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga079,ta,1.pl.incl.3.pl.fut.neg,tà-nà-má-jé-sín,Σnàmájésín,Σ n a ¹ m a ⁵ j e ⁵ s i ⁵ n,Σ+nà+má+jé+sín,Σ + n a ¹ + m a ⁵ + j e ⁵ + s i ⁵ n,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga080,tʰa,2.sg.fut.neg,ʈʰà-nà-má-tí,Σnàmátí,Σ n a ¹ m a ⁵ t i ⁵,Σ+nà+má+tí,Σ + n a ¹ + m a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga081,tʰa,2.pl.fut.neg,ʈʰà-nà-má-hín-tí,Σnàmáhíntí,Σ n a ¹ m a ⁵ h i ⁵ n t i ⁵,Σ+nà+má+hín+tí,Σ + n a ¹ + m a ⁵ + h i ⁵ n + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga082,ta,2.sg.1.sg.fut.neg,ka-ː-tà-nà-má-tí,kaːΣnàmátí,k aa Σ n a ¹ m a ⁵ t i ⁵,kaː+Σ+nà+má+tí,k aa + Σ + n a ¹ + m a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga083,ta,2.sg.1.pl.excl.fut.neg,ka-ː-tà-nà-má-hín-tí,kaːΣnàmáhíntí,k aa Σ n a ¹ m a ⁵ h i ⁵ n t i ⁵,kaː+Σ+nà+má+hín+tí,k aa + Σ + n a ¹ + m a ⁵ + h i ⁵ n + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga084,ta,2.pl.1.sg.fut.neg,ka-ː-tà-nà-má-hín-tí,kaːΣnàmáhíntí,k aa Σ n a ¹ m a ⁵ h i ⁵ n t i ⁵,kaː+Σ+nà+má+hín+tí,k aa + Σ + n a ¹ + m a ⁵ + h i ⁵ n + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga085,ta,2.pl.1.pl.excl.fut.neg,ka-ː-tà-nà-má-hín-tí,kaːΣnàmáhíntí,k aa Σ n a ¹ m a ⁵ h i ⁵ n t i ⁵,kaː+Σ+nà+má+hín+tí,k aa + Σ + n a ¹ + m a ⁵ + h i ⁵ n + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga086,ta,2.sg.3.sg.fut.neg,tà-nà-má-tí,Σnàmátí,Σ n a ¹ m a ⁵ t i ⁵,Σ+nà+má+tí,Σ + n a ¹ + m a ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga087,ta,2.sg.3.pl.fut.neg,tà-nà-má-jé-tí,Σnàmájétí,Σ n a ¹ m a ⁵ j e ⁵ t i ⁵,Σ+nà+má+jé+tí,Σ + n a ¹ + m a ⁵ + j e ⁵ + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga088,ta,2.pl.3.sg.fut.neg,tà-nà-má-hín-tí,Σnàmáhíntí,Σ n a ¹ m a ⁵ h i ⁵ n t i ⁵,Σ+nà+má+hín+tí,Σ + n a ¹ + m a ⁵ + h i ⁵ n + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga089,ta,2.pl.3.pl.fut.neg,tà-nà-má-hín-tí,Σnàmáhíntí,Σ n a ¹ m a ⁵ h i ⁵ n t i ⁵,Σ+nà+má+hín+tí,Σ + n a ¹ + m a ⁵ + h i ⁵ n + t i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga090,ta,2.pl.3.pl.fut.neg,tà-nà-má-jé-tí,Σnàmájétí,Σ n a ¹ m a ⁵ j e ⁵ t i ⁵,Σ+nà+má+jé+tí,Σ + n a ¹ + m a ⁵ + j e ⁵ + t i ⁵,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga091,tʰa,3.sg.fut.neg,ʈʰà-nà-mí,Σnàmí,Σ n a ¹ m i ⁵,Σ+nà+mí,Σ + n a ¹ + m i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga092,tʰa,3.pl.fut.neg,ʈʰà-nà-mí-jé,Σnàmíjé,Σ n a ¹ m i ⁵ j e ⁵,Σ+nà+mí+jé,Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga093,ta,3.sg.1.sg.fut.neg,ka-ː-tà-nà-mí,kaːΣnàmí,k aa Σ n a ¹ m i ⁵,kaː+Σ+nà+mí,k aa + Σ + n a ¹ + m i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga094,ta,3.sg.1.du.incl.fut.neg,na-ː-tà-nà-mí,naːΣnàmí,n aa Σ n a ¹ m i ⁵,naː+Σ+nà+mí,n aa + Σ + n a ¹ + m i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga095,ta,3.sg.1.pl.excl.fut.neg,ka-ː-tà-nà-mí-hín,kaːΣnàmíhín,k aa Σ n a ¹ m i ⁵ h i ⁵ n,kaː+Σ+nà+mí+hín,k aa + Σ + n a ¹ + m i ⁵ + h i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga096,ta,3.sg.1.pl.incl.fut.neg,na-ː-tà-nà-mí-hín,naːΣnàmíhín,n aa Σ n a ¹ m i ⁵ h i ⁵ n,naː+Σ+nà+mí+hín,n aa + Σ + n a ¹ + m i ⁵ + h i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga097,ta,3.pl.1.sg.fut.neg,ka-ː-tà-nà-mí-jé,kaːΣnàmíjé,k aa Σ n a ¹ m i ⁵ j e ⁵,kaː+Σ+nà+mí+jé,k aa + Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga098,ta,3.pl.1.du.incl.fut.neg,na-ː-tà-nà-mí-jè,naːΣnàmíjé,n aa Σ n a ¹ m i ⁵ j e ⁵,naː+Σ+nà+mí+jé,n aa + Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga099,ta,3.pl.1.pl.excl.fut.neg,ka-ː-tà-nà-mí-hín,kaːΣnàmíhín,k aa Σ n a ¹ m i ⁵ h i ⁵ n,kaː+Σ+nà+mí+hín,k aa + Σ + n a ¹ + m i ⁵ + h i ⁵ n,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga100,ta,3.pl.1.pl.excl.fut.neg,ka-ː-tà-nà-mí-jè,kaːΣnàmíjé,k aa Σ n a ¹ m i ⁵ j e ⁵,kaː+Σ+nà+mí+jé,k aa + Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga101,ta,3.pl.1.pl.incl.fut.neg,na-ː-tà-nà-mí-hín,naːΣnàmíhín,n aa Σ n a ¹ m i ⁵ h i ⁵ n,naː+Σ+nà+mí+hín,n aa + Σ + n a ¹ + m i ⁵ + h i ⁵ n,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga102,ta,3.pl.1.pl.incl.fut.neg,na-ː-tà-nà-mí-jé,naːΣnàmíjé,n aa Σ n a ¹ m i ⁵ j e ⁵,naː+Σ+nà+mí+jé,n aa + Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga103,ta,3.sg.2.sg.fut.neg,a-ː-tà-nà-mí,aːΣnàmí,aa Σ n a ¹ m i ⁵,aː+Σ+nà+mí,aa + Σ + n a ¹ + m i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga104,ta,3.sg.2.pl.fut.neg,a-ː-tà-nà-mí-hín,aːΣnàmíhín,aa Σ n a ¹ m i ⁵ h i ⁵ n,aː+Σ+nà+mí+hín,aa + Σ + n a ¹ + m i ⁵ + h i ⁵ n,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga105,ta,3.pl.2.sg.fut.neg,a-ː-tà-nà-mí-jè,aːΣnàmíjé,aa Σ n a ¹ m i ⁵ j e ⁵,aː+Σ+nà+mí+jé,aa + Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga106,ta,3.pl.2.pl.fut.neg,a-ː-tà-nà-mí-hín,aːΣnàmíhín,aa Σ n a ¹ m i ⁵ h i ⁵ n,aː+Σ+nà+mí+hín,aa + Σ + n a ¹ + m i ⁵ + h i ⁵ n,pragm_marked,,,,Ozerov2025Anal,250423,analnaga
+analnaga107,ta,3.pl.2.pl.fut.neg,a-ː-tà-nà-mí-jè,aːΣnàmíjé,aa Σ n a ¹ m i ⁵ j e ⁵,aː+Σ+nà+mí+jé,aa + Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga108,ta,3.sg.3.sg.fut.neg,tà-nà-mí,Σnàmí,Σ n a ¹ m i ⁵,Σ+nà+mí,Σ + n a ¹ + m i ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga109,ta,3.sg.3.pl.fut.neg,tà-nà-mí-jé,Σnàmíjé,Σ n a ¹ m i ⁵ j e ⁵,Σ+nà+mí+jé,Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga110,ta,3.pl.3.sg.fut.neg,tà-nà-mí-jé,Σnàmíjé,Σ n a ¹ m i ⁵ j e ⁵,Σ+nà+mí+jé,Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga111,ta,3.pl.3.pl.fut.neg,tà-nà-mí-jé,Σnàmíjé,Σ n a ¹ m i ⁵ j e ⁵,Σ+nà+mí+jé,Σ + n a ¹ + m i ⁵ + j e ⁵,default,,,,Ozerov2025Anal,250423,analnaga
+analnaga112,tʰa,1.sg.nfut.aff,ʈʰà-kà-níŋ,Σkàníŋ,Σ k a ¹ n i ⁵ ŋ,Σ+kà+níŋ,Σ + k a ¹ + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga113,tʰa,1.sg.nfut.aff,ʈʰáː-nʉ́,Σnʉ́,Σ n ʉ ⁵,Σ+nʉ́,Σ + n ʉ ⁵,default,generic_nf,special_stem,,Ozerov2019Anal,42,analnaga
+analnaga114,tʰa,1.du.incl.nfut.aff,ʈʰà-kà-sín,Σkàsín,Σ k a ¹ s i ⁵ n,Σ+kà+sín,Σ + k a ¹ + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga115,tʰa,1.du.incl.nfut.aff,ʈʰà-sìn-nʉ́,Σsìnnʉ́,Σ s i ¹ n n ʉ ⁵,Σ+sìn+nʉ́,Σ + s i ¹ n + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga116,tʰa,1.pl.excl.nfut.aff,ʈʰà-hín-nʉ́,Σhínnʉ́,Σ h i ⁵ n n ʉ ⁵,Σ+hín+nʉ́,Σ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga117,tʰa,1.pl.excl.nfut.aff,ʈʰà-kà-hín-níŋ,Σkàhínníŋ,Σ k a ¹ h i ⁵ n n i ⁵ ŋ,Σ+kà+hín+níŋ,Σ + k a ¹ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga118,tʰa,1.pl.incl.nfut.aff,ʈʰà-hìn-sín-nʉ́,Σhìnsínnʉ́,Σ h i ¹ n s i ⁵ n n ʉ ⁵,Σ+hìn+sín+nʉ́,Σ + h i ¹ n + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga119,tʰa,1.pl.incl.nfut.aff,ʈʰà-kà-hín-sín,Σkàhínsín,Σ k a ¹ h i ⁵ n s i ⁵ n,Σ+kà+hín+sín,Σ + k a ¹ + h i ⁵ n + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga120,ta,1.sg.2.sg.nfut.aff,a-ː-táː-nʉ̀,aːΣnʉ̀,aa Σ n ʉ ¹,aː+Σ+nʉ̀,aa + Σ + n ʉ ¹,default,generic_nf,special_stem,,Ozerov2025Anal,251129,analnaga
+analnaga121,ta,1.sg.2.sg.nfut.aff,a-ː-táː-vá-nìŋ,aːΣvánìŋ,aa Σ v a ⁵ n i ¹ ŋ,aː+Σ+vá+nìŋ,aa + Σ + v a ⁵ + n i ¹ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga122,ta,1.sg.2.pl.nfut.aff,a-ː-tà-hín-nʉ́,aːΣhínnʉ́,aa Σ h i ⁵ n n ʉ ⁵,aː+Σ+hín+nʉ́,aa + Σ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga123,ta,1.sg.2.pl.nfut.aff,a-ː-táː-vá-hìn-nìŋ,aːΣváhìnnìŋ,aa Σ v a ⁵ h i ¹ n n i ¹ ŋ,aː+Σ+vá+hìn+nìŋ,aa + Σ + v a ⁵ + h i ¹ n + n i ¹ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga124,ta,1.pl.excl.2.sg.nfut.aff,a-ː-tà-hín-nʉ́,aːΣhínnʉ́,aa Σ h i ⁵ n n ʉ ⁵,aː+Σ+hín+nʉ́,aa + Σ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga125,ta,1.pl.excl.2.sg.nfut.aff,a-ː-táː-vá-hìn-nìŋ,aːΣváhìnnìŋ,aa Σ v a ⁵ h i ¹ n n i ¹ ŋ,aː+Σ+vá+hìn+nìŋ,aa + Σ + v a ⁵ + h i ¹ n + n i ¹ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga126,ta,1.pl.excl.2.pl.nfut.aff,a-ː-tà-hín-nʉ́,aːΣhínnʉ́,aa Σ h i ⁵ n n ʉ ⁵,aː+Σ+hín+nʉ́,aa + Σ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga127,ta,1.pl.excl.2.pl.nfut.aff,a-ː-táː-vá-hìn-nìŋ,aːΣváhìnnìŋ,aa Σ v a ⁵ h i ¹ n n i ¹ ŋ,aː+Σ+vá+hìn+nìŋ,aa + Σ + v a ⁵ + h i ¹ n + n i ¹ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga128,ta,1.sg.3.sg.nfut.aff,ka-táː-và,kaΣvà,k a Σ v a ¹,ka+Σ+và,k a + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251132,analnaga
+analnaga129,ta,1.sg.3.sg.nfut.aff,táː-nʉ̀,Σnʉ̀,Σ n ʉ ¹,Σ+nʉ̀,Σ + n ʉ ¹,default,generic_nf,special_stem,,Ozerov2019Anal,52,analnaga
+analnaga130,ta,1.sg.3.pl.nfut.aff,ka-táː-vá-jè,kaΣvájè,k a Σ v a ⁵ j e ¹,ka+Σ+vá+jè,k a + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251131,analnaga
+analnaga131,ta,1.sg.3.pl.nfut.aff,tà-jéː-nʉ́,Σjéːnʉ́,Σ j ee ⁵ n ʉ ⁵,Σ+jéː+nʉ́,Σ + j ee ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga132,ta,1.du.incl.3.sg.nfut.aff,na-táː-và,naΣvà,n a Σ v a ¹,na+Σ+và,n a + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga133,ta,1.du.incl.3.sg.nfut.aff,tà-sìn-nʉ́,Σsìnnʉ́,Σ s i ¹ n n ʉ ⁵,Σ+sìn+nʉ́,Σ + s i ¹ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga134,ta,1.du.incl.3.pl.nfut.aff,na-táː-vá-jè,naΣvájè,n a Σ v a ⁵ j e ¹,na+Σ+vá+jè,n a + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga135,ta,1.du.incl.3.pl.nfut.aff,tà-jè-sín-nʉ́,Σjèsínnʉ́,Σ j e ¹ s i ⁵ n n ʉ ⁵,Σ+jè+sín+nʉ́,Σ + j e ¹ + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga136,ta,1.pl.excl.3.sg.nfut.aff,ka-táː-vá-hìn,kaΣváhìn,k a Σ v a ⁵ h i ¹ n,ka+Σ+vá+hìn,k a + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251132,analnaga
+analnaga137,ta,1.pl.excl.3.sg.nfut.aff,tà-hín-nʉ́,Σhínnʉ́,Σ h i ⁵ n n ʉ ⁵,Σ+hín+nʉ́,Σ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga138,ta,1.pl.incl.3.sg.nfut.aff,na-táː-vá-hìn,naΣváhìn,n a Σ v a ⁵ h i ¹ n,na+Σ+vá+hìn,n a + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga139,ta,1.pl.incl.3.sg.nfut.aff,tà-hìn-sín-nʉ́,Σhìnsínnʉ́,Σ h i ¹ n s i ⁵ n n ʉ ⁵,Σ+hìn+sín+nʉ́,Σ + h i ¹ n + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga140,ta,1.pl.excl.3.pl.nfut.aff,ka-táː-vá-hìn,kaΣváhìn,k a Σ v a ⁵ h i ¹ n,ka+Σ+vá+hìn,k a + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251131,analnaga
+analnaga141,ta,1.pl.excl.3.pl.nfut.aff,tà-hín-nʉ́,Σhínnʉ́,Σ h i ⁵ n n ʉ ⁵,Σ+hín+nʉ́,Σ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga142,ta,1.pl.excl.3.pl.nfut.aff,tà-jéː-nʉ́,Σjéːnʉ́,Σ j ee ⁵ n ʉ ⁵,Σ+jéː+nʉ́,Σ + j ee ⁵ + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga143,ta,1.pl.excl.3.pl.nfut.aff,ka-táː-vá-jè,kaΣvájè,k a Σ v a ⁵ j e ¹,ka+Σ+vá+jè,k a + Σ + v a ⁵ + j e ¹,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga144,ta,1.pl.incl.3.pl.nfut.aff,na-táː-vá-hìn,naΣváhìn,n a Σ v a ⁵ h i ¹ n,na+Σ+vá+hìn,n a + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga145,ta,1.pl.incl.3.pl.nfut.aff,tà-hìn-sín-nʉ́,Σhìnsínnʉ́,Σ h i ¹ n s i ⁵ n n ʉ ⁵,Σ+hìn+sín+nʉ́,Σ + h i ¹ n + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga146,ta,1.pl.incl.3.pl.nfut.aff,na-táː-vá-jè,naΣvájè,n a Σ v a ⁵ j e ¹,na+Σ+vá+jè,n a + Σ + v a ⁵ + j e ¹,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga147,ta,1.pl.incl.3.pl.nfut.aff,tà-jè-sín-nʉ́,Σjèsínnʉ́,Σ j e ¹ s i ⁵ n n ʉ ⁵,Σ+jè+sín+nʉ́,Σ + j e ¹ + s i ⁵ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga148,tʰa,2.sg.nfut.aff,ʈʰà-kà-tí,Σkàtí,Σ k a ¹ t i ⁵,Σ+kà+tí,Σ + k a ¹ + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga149,tʰa,2.sg.nfut.aff,ʈʰà-tì-nʉ́,Σtìnʉ́,Σ t i ¹ n ʉ ⁵,Σ+tì+nʉ́,Σ + t i ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga150,tʰa,2.pl.nfut.aff,ʈʰà-hìn-tí-nʉ́,Σhìntínʉ́,Σ h i ¹ n t i ⁵ n ʉ ⁵,Σ+hìn+tí+nʉ́,Σ + h i ¹ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga151,tʰa,2.pl.nfut.aff,ʈʰà-kà-hín-tí,Σkàhíntí,Σ k a ¹ h i ⁵ n t i ⁵,Σ+kà+hín+tí,Σ + k a ¹ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga152,ta,2.sg.1.sg.nfut.aff,ka-ː-tà-tì-nʉ́,kaːΣtìnʉ́,k aa Σ t i ¹ n ʉ ⁵,kaː+Σ+tì+nʉ́,k aa + Σ + t i ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga153,ta,2.sg.1.sg.nfut.aff,ka-ː-táː-vá-tì,kaːΣvátì,k aa Σ v a ⁵ t i ¹,kaː+Σ+vá+tì,k aa + Σ + v a ⁵ + t i ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga154,ta,2.sg.1.pl.excl.nfut.aff,ka-ː-tà-hìn-tí-nʉ́,kaːΣhìntínʉ́,k aa Σ h i ¹ n t i ⁵ n ʉ ⁵,kaː+Σ+hìn+tí+nʉ́,k aa + Σ + h i ¹ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga155,ta,2.sg.1.pl.excl.nfut.aff,ka-ː-táː-vá-hìn-tì,kaːΣváhìntì,k aa Σ v a ⁵ h i ¹ n t i ¹,kaː+Σ+vá+hìn+tì,k aa + Σ + v a ⁵ + h i ¹ n + t i ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga156,ta,2.pl.1.sg.nfut.aff,ka-ː-tà-hìn-tí-nʉ́,kaːΣhìntínʉ́,k aa Σ h i ¹ n t i ⁵ n ʉ ⁵,kaː+Σ+hìn+tí+nʉ́,k aa + Σ + h i ¹ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga157,ta,2.pl.1.sg.nfut.aff,ka-ː-táː-vá-hìn-tì,kaːΣváhìntì,k aa Σ v a ⁵ h i ¹ n t i ¹,kaː+Σ+vá+hìn+tì,k aa + Σ + v a ⁵ + h i ¹ n + t i ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga158,ta,2.pl.1.pl.excl.nfut.aff,ka-ː-tà-hìn-tí-nʉ́,kaːΣhìntínʉ́,k aa Σ h i ¹ n t i ⁵ n ʉ ⁵,kaː+Σ+hìn+tí+nʉ́,k aa + Σ + h i ¹ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga159,ta,2.pl.1.pl.excl.nfut.aff,ka-ː-táː-vá-hìn-tì,kaːΣváhìntì,k aa Σ v a ⁵ h i ¹ n t i ¹,kaː+Σ+vá+hìn+tì,k aa + Σ + v a ⁵ + h i ¹ n + t i ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga160,ta,2.sg.3.sg.nfut.aff,a-táː-và,aΣvà,a Σ v a ¹,a+Σ+và,a + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251132,analnaga
+analnaga161,ta,2.sg.3.sg.nfut.aff,tà-tì-nʉ́,Σtìnʉ́,Σ t i ¹ n ʉ ⁵,Σ+tì+nʉ́,Σ + t i ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga162,ta,2.sg.3.pl.nfut.aff,a-táː-vá-jè,aΣvájè,a Σ v a ⁵ j e ¹,a+Σ+vá+jè,a + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251131,analnaga
+analnaga163,ta,2.sg.3.pl.nfut.aff,tà-jè-tí-nʉ́,Σjètínʉ́,Σ j e ¹ t i ⁵ n ʉ ⁵,Σ+jè+tí+nʉ́,Σ + j e ¹ + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga164,ta,2.pl.3.sg.nfut.aff,a-táː-vá-hìn,aΣváhìn,a Σ v a ⁵ h i ¹ n,a+Σ+vá+hìn,a + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251132,analnaga
+analnaga165,ta,2.pl.3.sg.nfut.aff,tà-hìn-tí-nú,Σhìntínʉ́,Σ h i ¹ n t i ⁵ n ʉ ⁵,Σ+hìn+tí+nʉ́,Σ + h i ¹ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga166,ta,2.pl.3.pl.nfut.aff,a-táː-vá-hìn,aΣváhìn,a Σ v a ⁵ h i ¹ n,a+Σ+vá+hìn,a + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251131,analnaga
+analnaga167,ta,2.pl.3.pl.nfut.aff,tà-hìn-tí-nú,Σhìntínʉ́,Σ h i ¹ n t i ⁵ n ʉ ⁵,Σ+hìn+tí+nʉ́,Σ + h i ¹ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga168,ta,2.pl.3.pl.nfut.aff,a-táː-vá-jè,aΣvájè,a Σ v a ⁵ j e ¹,a+Σ+vá+jè,a + Σ + v a ⁵ + j e ¹,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga169,ta,2.pl.3.pl.nfut.aff,tà-jè-tí-nú,Σjètínʉ́,Σ j e ¹ t i ⁵ n ʉ ⁵,Σ+jè+tí+nʉ́,Σ + j e ¹ + t i ⁵ + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga170,tʰa,3.sg.nfut.aff,ʈʰà-ká,Σká,Σ k a ⁵,Σ+ká,Σ + k a ⁵,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga171,tʰa,3.sg.nfut.aff,ʈʰà-nʉ́,Σnʉ́,Σ n ʉ ⁵,Σ+nʉ́,Σ + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga172,tʰa,3.pl.nfut.aff,ʈʰà-jè-nʉ́,Σjènʉ́,Σ j e ¹ n ʉ ⁵,Σ+jè+nʉ́,Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2019Anal,42,analnaga
+analnaga173,tʰa,3.pl.nfut.aff,ʈʰà-kà-jé,Σkàjé,Σ k a ¹ j e ⁵,Σ+kà+jé,Σ + k a ¹ + j e ⁵,default,non_generic_nf,,,Ozerov2019Anal,38,analnaga
+analnaga174,ta,3.sg.1.sg.nfut.aff,ka-ː-tà-nʉ́,kaːΣnʉ́,k aa Σ n ʉ ⁵,kaː+Σ+nʉ́,k aa + Σ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga175,ta,3.sg.1.sg.nfut.aff,ka-ː-táː-và,kaːΣvà,k aa Σ v a ¹,kaː+Σ+và,k aa + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga176,ta,3.sg.1.du.incl.nfut.aff,na-ː-tà-nʉ́,naːΣnʉ́,n aa Σ n ʉ ⁵,naː+Σ+nʉ́,n aa + Σ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga177,ta,3.sg.1.du.incl.nfut.aff,na-ː-táː-và,naːΣvà,n aa Σ v a ¹,naː+Σ+và,n aa + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga178,ta,3.sg.1.pl.excl.nfut.aff,ka-ː-tà-hìn-nʉ́,kaːΣhìnnʉ́,k aa Σ h i ¹ n n ʉ ⁵,kaː+Σ+hìn+nʉ́,k aa + Σ + h i ¹ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga179,ta,3.sg.1.pl.excl.nfut.aff,ka-ː-táː-vá-hìn,kaːΣváhìn,k aa Σ v a ⁵ h i ¹ n,kaː+Σ+vá+hìn,k aa + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga180,ta,3.sg.1.pl.incl.nfut.aff,na-ː-tà-hìn-nʉ́,naːΣhìnnʉ́,n aa Σ h i ¹ n n ʉ ⁵,naː+Σ+hìn+nʉ́,n aa + Σ + h i ¹ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga181,ta,3.sg.1.pl.incl.nfut.aff,na-ː-táː-vá-hìn,naːΣváhìn,n aa Σ v a ⁵ h i ¹ n,naː+Σ+vá+hìn,n aa + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga182,ta,3.pl.1.sg.nfut.aff,ka-ː-tà-jé-nʉ́,kaːΣjénʉ́,k aa Σ j e ⁵ n ʉ ⁵,kaː+Σ+jé+nʉ́,k aa + Σ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga183,ta,3.pl.1.sg.nfut.aff,ka-ː-táː-vá-jè,kaːΣvájè,k aa Σ v a ⁵ j e ¹,kaː+Σ+vá+jè,k aa + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga184,ta,3.pl.1.du.incl.nfut.aff,na-ː-tà-jè-nʉ́,naːΣjènʉ́,n aa Σ j e ¹ n ʉ ⁵,naː+Σ+jè+nʉ́,n aa + Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga185,ta,3.pl.1.du.incl.nfut.aff,na-ː-táː-vá-jè,naːΣvájè,n aa Σ v a ⁵ j e ¹,naː+Σ+vá+jè,n aa + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga186,ta,3.pl.1.pl.excl.nfut.aff,ka-ː-tà-hìn-nʉ́,kaːΣhìnnʉ́,k aa Σ h i ¹ n n ʉ ⁵,kaː+Σ+hìn+nʉ́,k aa + Σ + h i ¹ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga187,ta,3.pl.1.pl.excl.nfut.aff,ka-ː-táː-vá-hìn,kaːΣváhìn,k aa Σ v a ⁵ h i ¹ n,kaː+Σ+vá+hìn,k aa + Σ + v a ⁵ + h i ¹ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga188,ta,3.pl.1.pl.excl.nfut.aff,ka-ː-tà-jè-nʉ́,kaːΣjènʉ́,k aa Σ j e ¹ n ʉ ⁵,kaː+Σ+jè+nʉ́,k aa + Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga189,ta,3.pl.1.pl.excl.nfut.aff,ka-ː-táː-vá-jè,kaːΣvájè,k aa Σ v a ⁵ j e ¹,kaː+Σ+vá+jè,k aa + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga190,ta,3.pl.1.pl.incl.nfut.aff,na-ː-tà-hìn-nʉ́,naːΣhìnnʉ́,n aa Σ h i ¹ n n ʉ ⁵,naː+Σ+hìn+nʉ́,n aa + Σ + h i ¹ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga191,ta,3.pl.1.pl.incl.nfut.aff,na-ː-táː-vá-hìn,naːΣváhìn,n aa Σ v a ⁵ h i ¹ n,naː+Σ+vá+hìn,n aa + Σ + v a ⁵ + h i ¹ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga192,ta,3.pl.1.pl.incl.nfut.aff,na-ː-tà-jè-nʉ́,naːΣjènʉ́,n aa Σ j e ¹ n ʉ ⁵,naː+Σ+jè+nʉ́,n aa + Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga193,ta,3.pl.1.pl.incl.nfut.aff,na-ː-táː-vá-jè,naːΣvájè,n aa Σ v a ⁵ j e ¹,naː+Σ+vá+jè,n aa + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga194,ta,3.sg.2.sg.nfut.aff,a-ː-tà-nʉ́,aːΣnʉ́,aa Σ n ʉ ⁵,aː+Σ+nʉ́,aa + Σ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga195,ta,3.sg.2.sg.nfut.aff,a-ː-táː-và,aːΣvà,aa Σ v a ¹,aː+Σ+và,aa + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga196,ta,3.sg.2.pl.nfut.aff,a-ː-tà-hìn-nʉ́,aːΣhìnnʉ́,aa Σ h i ¹ n n ʉ ⁵,aː+Σ+hìn+nʉ́,aa + Σ + h i ¹ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga197,ta,3.sg.2.pl.nfut.aff,a-ː-táː-vá-hìn,aːΣváhìn,aa Σ v a ⁵ h i ¹ n,aː+Σ+vá+hìn,aa + Σ + v a ⁵ + h i ¹ n,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga198,ta,3.pl.2.sg.nfut.aff,a-ː-tà-jè-nʉ́,aːΣjènʉ́,aa Σ j e ¹ n ʉ ⁵,aː+Σ+jè+nʉ́,aa + Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga199,ta,3.pl.2.sg.nfut.aff,a-ː-táː-vá-jè,aːΣvájè,aa Σ v a ⁵ j e ¹,aː+Σ+vá+jè,aa + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga200,ta,3.pl.2.pl.nfut.aff,a-ː-tà-jè-nʉ́,aːΣjènʉ́,aa Σ j e ¹ n ʉ ⁵,aː+Σ+jè+nʉ́,aa + Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251128,analnaga
+analnaga201,ta,3.pl.2.pl.nfut.aff,a-ː-táː-vá-jè,aːΣvájè,aa Σ v a ⁵ j e ¹,aː+Σ+vá+jè,aa + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251129,analnaga
+analnaga202,ta,3.pl.2.pl.nfut.aff,a-ː-tà-hìn-nʉ́,aːΣhìnnʉ́,aa Σ h i ¹ n n ʉ ⁵,aː+Σ+hìn+nʉ́,aa + Σ + h i ¹ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga203,ta,3.pl.2.pl.nfut.aff,a-ː-táː-vá-hìn,aːΣváhìn,aa Σ v a ⁵ h i ¹ n,aː+Σ+vá+hìn,aa + Σ + v a ⁵ + h i ¹ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga204,ta,3.sg.3.sg.nfut.aff,tà-nʉ́,Σnʉ́,Σ n ʉ ⁵,Σ+nʉ́,Σ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga205,ta,3.sg.3.sg.nfut.aff,va-táː-và,vaΣvà,v a Σ v a ¹,va+Σ+và,v a + Σ + v a ¹,default,non_generic_nf,,,Ozerov2025Anal,251132,analnaga
+analnaga206,ta,3.sg.3.pl.nfut.aff,tà-jè-nʉ́,Σjènʉ́,Σ j e ¹ n ʉ ⁵,Σ+jè+nʉ́,Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga207,ta,3.sg.3.pl.nfut.aff,va-táː-vá-jè,vaΣvájè,v a Σ v a ⁵ j e ¹,va+Σ+vá+jè,v a + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251131,analnaga
+analnaga208,ta,3.pl.3.sg.nfut.aff,tà-jè-nʉ́,Σjènʉ́,Σ j e ¹ n ʉ ⁵,Σ+jè+nʉ́,Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga209,ta,3.pl.3.sg.nfut.aff,va-táː-vá-jè,vaΣvájè,v a Σ v a ⁵ j e ¹,va+Σ+vá+jè,v a + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251132,analnaga
+analnaga210,ta,3.pl.3.pl.nfut.aff,tà-jè-nʉ́,Σjènʉ́,Σ j e ¹ n ʉ ⁵,Σ+jè+nʉ́,Σ + j e ¹ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,nopage,analnaga
+analnaga211,ta,3.pl.3.pl.nfut.aff,va-táː-vá-jè,vaΣvájè,v a Σ v a ⁵ j e ¹,va+Σ+vá+jè,v a + Σ + v a ⁵ + j e ¹,default,non_generic_nf,,,Ozerov2025Anal,251131,analnaga
+analnaga212,tʰa,1.sg.nfut.neg,ʈʰà-má-níŋ,Σmáníŋ,Σ m a ⁵ n i ⁵ ŋ,Σ+má+níŋ,Σ + m a ⁵ + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga213,tʰa,1.sg.nfut.neg,ʈʰà-máː-nʉ́,Σmáːnʉ́,Σ m aa ⁵ n ʉ ⁵,Σ+máː+nʉ́,Σ + m aa ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga214,tʰa,1.du.incl.nfut.neg,ʈʰà-má-sín,Σmásín,Σ m a ⁵ s i ⁵ n,Σ+má+sín,Σ + m a ⁵ + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga215,tʰa,1.du.incl.nfut.neg,ʈʰà-má-sín-nʉ́,Σmásínnʉ́,Σ m a ⁵ s i ⁵ n n ʉ ⁵,Σ+má+sín+nʉ́,Σ + m a ⁵ + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga216,tʰa,1.pl.excl.nfut.neg,ʈʰà-má-hín-níŋ,Σmáhínníŋ,Σ m a ⁵ h i ⁵ n n i ⁵ ŋ,Σ+má+hín+níŋ,Σ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga217,tʰa,1.pl.excl.nfut.neg,ʈʰà-má-hín-nʉ́,Σmáhínnʉ́,Σ m a ⁵ h i ⁵ n n ʉ ⁵,Σ+má+hín+nʉ́,Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga218,tʰa,1.pl.incl.nfut.neg,ʈʰà-má-hín-sín,Σmáhínsín,Σ m a ⁵ h i ⁵ n s i ⁵ n,Σ+má+hín+sín,Σ + m a ⁵ + h i ⁵ n + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga219,tʰa,1.pl.incl.nfut.neg,ʈʰà-má-hín-sín-nʉ́,Σmáhínsínnʉ́,Σ m a ⁵ h i ⁵ n s i ⁵ n n ʉ ⁵,Σ+má+hín+sín+nʉ́,Σ + m a ⁵ + h i ⁵ n + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga220,ta,1.sg.2.sg.nfut.neg,a-ː-tà-má-níŋ,aːΣmáníŋ,aa Σ m a ⁵ n i ⁵ ŋ,aː+Σ+má+níŋ,aa + Σ + m a ⁵ + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga221,ta,1.sg.2.sg.nfut.neg,a-ː-tà-máː-nʉ́,aːΣmáːnʉ́,aa Σ m aa ⁵ n ʉ ⁵,aː+Σ+máː+nʉ́,aa + Σ + m aa ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga222,ta,1.sg.2.pl.nfut.neg,a-ː-tà-má-hín-níŋ,aːΣmáhínníŋ,aa Σ m a ⁵ h i ⁵ n n i ⁵ ŋ,aː+Σ+má+hín+níŋ,aa + Σ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga223,ta,1.sg.2.pl.nfut.neg,a-ː-tà-má-hín-nʉ́,aːΣmáhínnʉ́,aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,aː+Σ+má+hín+nʉ́,aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga224,ta,1.pl.excl.2.sg.nfut.neg,a-ː-tà-má-hín-níŋ,aːΣmáhínníŋ,aa Σ m a ⁵ h i ⁵ n n i ⁵ ŋ,aː+Σ+má+hín+níŋ,aa + Σ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga225,ta,1.pl.excl.2.sg.nfut.neg,a-ː-tà-má-hín-nʉ́,aːΣmáhínnʉ́,aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,aː+Σ+má+hín+nʉ́,aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga226,ta,1.pl.excl.2.pl.nfut.neg,a-ː-tà-má-hín-níŋ,aːΣmáhínníŋ,aa Σ m a ⁵ h i ⁵ n n i ⁵ ŋ,aː+Σ+má+hín+níŋ,aa + Σ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga227,ta,1.pl.excl.2.pl.nfut.neg,a-ː-tà-má-hín-nʉ́,aːΣmáhínnʉ́,aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,aː+Σ+má+hín+nʉ́,aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga228,ta,1.sg.3.sg.nfut.neg,tà-má-níŋ,Σmáníŋ,Σ m a ⁵ n i ⁵ ŋ,Σ+má+níŋ,Σ + m a ⁵ + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga229,ta,1.sg.3.sg.nfut.neg,tà-máː-nʉ́,Σmáːnʉ́,Σ m aa ⁵ n ʉ ⁵,Σ+máː+nʉ́,Σ + m aa ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga230,ta,1.sg.3.pl.nfut.neg,tà-má-jé-níŋ,Σmájéníŋ,Σ m a ⁵ j e ⁵ n i ⁵ ŋ,Σ+má+jé+níŋ,Σ + m a ⁵ + j e ⁵ + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga231,ta,1.sg.3.pl.nfut.neg,tà-má-jéː-nʉ́,Σmájéːnʉ́,Σ m a ⁵ j ee ⁵ n ʉ ⁵,Σ+má+jéː+nʉ́,Σ + m a ⁵ + j ee ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga232,ta,1.du.incl.3.sg.nfut.neg,tà-má-sín,Σmásín,Σ m a ⁵ s i ⁵ n,Σ+má+sín,Σ + m a ⁵ + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga233,ta,1.du.incl.3.sg.nfut.neg,tà-má-sín-nʉ́,Σmásínnʉ́,Σ m a ⁵ s i ⁵ n n ʉ ⁵,Σ+má+sín+nʉ́,Σ + m a ⁵ + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga234,ta,1.du.incl.3.pl.nfut.neg,tà-má-jé-sín,Σmájésín,Σ m a ⁵ j e ⁵ s i ⁵ n,Σ+má+jé+sín,Σ + m a ⁵ + j e ⁵ + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga235,ta,1.du.incl.3.pl.nfut.neg,tà-má-jé-sín-nʉ́,Σmájésínnʉ́,Σ m a ⁵ j e ⁵ s i ⁵ n n ʉ ⁵,Σ+má+jé+sín+nʉ́,Σ + m a ⁵ + j e ⁵ + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga236,ta,1.pl.excl.3.sg.nfut.neg,tà-má-hín-níŋ,Σmáhínníŋ,Σ m a ⁵ h i ⁵ n n i ⁵ ŋ,Σ+má+hín+níŋ,Σ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga237,ta,1.pl.excl.3.sg.nfut.neg,tà-má-hín-nʉ́,Σmáhínnʉ́,Σ m a ⁵ h i ⁵ n n ʉ ⁵,Σ+má+hín+nʉ́,Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga238,ta,1.pl.incl.3.sg.nfut.neg,tà-má-hín-sín,Σmáhínsín,Σ m a ⁵ h i ⁵ n s i ⁵ n,Σ+má+hín+sín,Σ + m a ⁵ + h i ⁵ n + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga239,ta,1.pl.incl.3.sg.nfut.neg,tà-má-hín-sín-nʉ́,Σmáhínsínnʉ́,Σ m a ⁵ h i ⁵ n s i ⁵ n n ʉ ⁵,Σ+má+hín+sín+nʉ́,Σ + m a ⁵ + h i ⁵ n + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga240,ta,1.pl.excl.3.pl.nfut.neg,tà-má-hín-níŋ,Σmáhínníŋ,Σ m a ⁵ h i ⁵ n n i ⁵ ŋ,Σ+má+hín+níŋ,Σ + m a ⁵ + h i ⁵ n + n i ⁵ ŋ,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga241,ta,1.pl.excl.3.pl.nfut.neg,tà-má-hín-nʉ́,Σmáhínnʉ́,Σ m a ⁵ h i ⁵ n n ʉ ⁵,Σ+má+hín+nʉ́,Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga242,ta,1.pl.excl.3.pl.nfut.neg,tà-má-jé-níŋ,Σmájéníŋ,Σ m a ⁵ j e ⁵ n i ⁵ ŋ,Σ+má+jé+níŋ,Σ + m a ⁵ + j e ⁵ + n i ⁵ ŋ,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga243,ta,1.pl.excl.3.pl.nfut.neg,tà-má-jé-nʉ́,Σmájénʉ́,Σ m a ⁵ j e ⁵ n ʉ ⁵,Σ+má+jé+nʉ́,Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga244,ta,1.pl.incl.3.pl.nfut.neg,tà-má-hín-sín,Σmáhínsín,Σ m a ⁵ h i ⁵ n s i ⁵ n,Σ+má+hín+sín,Σ + m a ⁵ + h i ⁵ n + s i ⁵ n,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga245,ta,1.pl.incl.3.pl.nfut.neg,tà-má-hín-sín-nʉ́,Σmáhínsínnʉ́,Σ m a ⁵ h i ⁵ n s i ⁵ n n ʉ ⁵,Σ+má+hín+sín+nʉ́,Σ + m a ⁵ + h i ⁵ n + s i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga246,ta,1.pl.incl.3.pl.nfut.neg,tà-má-jé-sín,Σmájésín,Σ m a ⁵ j e ⁵ s i ⁵ n,Σ+má+jé+sín,Σ + m a ⁵ + j e ⁵ + s i ⁵ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga247,ta,1.pl.incl.3.pl.nfut.neg,tà-má-jé-sín-nʉ́,Σmájésínnʉ́,Σ m a ⁵ j e ⁵ s i ⁵ n n ʉ ⁵,Σ+má+jé+sín+nʉ́,Σ + m a ⁵ + j e ⁵ + s i ⁵ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga248,tʰa,2.sg.nfut.neg,ʈʰà-má-tí,Σmátí,Σ m a ⁵ t i ⁵,Σ+má+tí,Σ + m a ⁵ + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga249,tʰa,2.sg.nfut.neg,ʈʰà-má-tí-nʉ́,Σmátínʉ́,Σ m a ⁵ t i ⁵ n ʉ ⁵,Σ+má+tí+nʉ́,Σ + m a ⁵ + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga250,tʰa,2.pl.nfut.neg,ʈʰà-má-hín-tí,Σmáhíntí,Σ m a ⁵ h i ⁵ n t i ⁵,Σ+má+hín+tí,Σ + m a ⁵ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga251,tʰa,2.pl.nfut.neg,ʈʰà-má-hín-tí-nʉ́,Σmáhíntínʉ́,Σ m a ⁵ h i ⁵ n t i ⁵ n ʉ ⁵,Σ+má+hín+tí+nʉ́,Σ + m a ⁵ + h i ⁵ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga252,ta,2.sg.1.sg.nfut.neg,ka-ː-tà-má-tí,kaːΣmátí,k aa Σ m a ⁵ t i ⁵,kaː+Σ+má+tí,k aa + Σ + m a ⁵ + t i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga253,ta,2.sg.1.sg.nfut.neg,ka-ː-tà-má-tí-nʉ́,kaːΣmátínʉ́,k aa Σ m a ⁵ t i ⁵ n ʉ ⁵,kaː+Σ+má+tí+nʉ́,k aa + Σ + m a ⁵ + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga254,ta,2.sg.1.pl.excl.nfut.neg,ka-ː-tà-má-hín-tí,kaːΣmáhíntí,k aa Σ m a ⁵ h i ⁵ n t i ⁵,kaː+Σ+má+hín+tí,k aa + Σ + m a ⁵ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga255,ta,2.sg.1.pl.excl.nfut.neg,ka-ː-tà-má-hín-tí-nʉ́,kaːΣmáhíntínʉ́,k aa Σ m a ⁵ h i ⁵ n t i ⁵ n ʉ ⁵,kaː+Σ+má+hín+tí+nʉ́,k aa + Σ + m a ⁵ + h i ⁵ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga256,ta,2.pl.1.sg.nfut.neg,ka-ː-tà-má-hín-tí,kaːΣmáhíntí,k aa Σ m a ⁵ h i ⁵ n t i ⁵,kaː+Σ+má+hín+tí,k aa + Σ + m a ⁵ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga257,ta,2.pl.1.sg.nfut.neg,ka-ː-tà-má-hín-tí-nʉ́,kaːΣmáhíntínʉ́,k aa Σ m a ⁵ h i ⁵ n t i ⁵ n ʉ ⁵,kaː+Σ+má+hín+tí+nʉ́,k aa + Σ + m a ⁵ + h i ⁵ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga258,ta,2.pl.1.pl.excl.nfut.neg,ka-ː-tà-má-hín-tí,kaːΣmáhíntí,k aa Σ m a ⁵ h i ⁵ n t i ⁵,kaː+Σ+má+hín+tí,k aa + Σ + m a ⁵ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga259,ta,2.pl.1.pl.excl.nfut.neg,ka-ː-tà-má-hín-tí-nʉ́,kaːΣmáhíntínʉ́,k aa Σ m a ⁵ h i ⁵ n t i ⁵ n ʉ ⁵,kaː+Σ+má+hín+tí+nʉ́,k aa + Σ + m a ⁵ + h i ⁵ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga260,ta,2.sg.3.sg.nfut.neg,tà-má-tí,Σmátí,Σ m a ⁵ t i ⁵,Σ+má+tí,Σ + m a ⁵ + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga261,ta,2.sg.3.sg.nfut.neg,tà-má-tí-nʉ́,Σmátínʉ́,Σ m a ⁵ t i ⁵ n ʉ ⁵,Σ+má+tí+nʉ́,Σ + m a ⁵ + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga262,ta,2.sg.3.pl.nfut.neg,tà-má-jé-tí,Σmájétí,Σ m a ⁵ j e ⁵ t i ⁵,Σ+má+jé+tí,Σ + m a ⁵ + j e ⁵ + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga263,ta,2.sg.3.pl.nfut.neg,tà-má-jé-tí-nʉ́,Σmájétínʉ́,Σ m a ⁵ j e ⁵ t i ⁵ n ʉ ⁵,Σ+má+jé+tí+nʉ́,Σ + m a ⁵ + j e ⁵ + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga264,ta,2.pl.3.sg.nfut.neg,tà-má-hín-tí,Σmáhíntí,Σ m a ⁵ h i ⁵ n t i ⁵,Σ+má+hín+tí,Σ + m a ⁵ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga265,ta,2.pl.3.sg.nfut.neg,tà-má-hín-tí-nʉ́,Σmáhíntínʉ́,Σ m a ⁵ h i ⁵ n t i ⁵ n ʉ ⁵,Σ+má+hín+tí+nʉ́,Σ + m a ⁵ + h i ⁵ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga266,ta,2.pl.3.pl.nfut.neg,tà-má-hín-tí,Σmáhíntí,Σ m a ⁵ h i ⁵ n t i ⁵,Σ+má+hín+tí,Σ + m a ⁵ + h i ⁵ n + t i ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga267,ta,2.pl.3.pl.nfut.neg,tà-má-hín-tí-nʉ́,Σmáhíntínʉ́,Σ m a ⁵ h i ⁵ n t i ⁵ n ʉ ⁵,Σ+má+hín+tí+nʉ́,Σ + m a ⁵ + h i ⁵ n + t i ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga268,ta,2.pl.3.pl.nfut.neg,tà-má-jé-tí,Σmájétí,Σ m a ⁵ j e ⁵ t i ⁵,Σ+má+jé+tí,Σ + m a ⁵ + j e ⁵ + t i ⁵,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga269,ta,2.pl.3.pl.nfut.neg,tà-má-jé-tí-nʉ́,Σmájétínʉ́,Σ m a ⁵ j e ⁵ t i ⁵ n ʉ ⁵,Σ+má+jé+tí+nʉ́,Σ + m a ⁵ + j e ⁵ + t i ⁵ + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga270,tʰa,3.sg.nfut.neg,ʈʰà-mí,Σmí,Σ m i ⁵,Σ+mí,Σ + m i ⁵,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga271,tʰa,3.sg.nfut.neg,ʈʰà-má-nʉ́,Σmánʉ́,Σ m a ⁵ n ʉ ⁵,Σ+má+nʉ́,Σ + m a ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga272,tʰa,3.pl.nfut.neg,ʈʰà-mí-jé,Σmíjé,Σ m i ⁵ j e ⁵,Σ+mí+jé,Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2019Anal,41,analnaga
+analnaga273,tʰa,3.pl.nfut.neg,ʈʰà-má-jé-nʉ́,Σmájénʉ́,Σ m a ⁵ j e ⁵ n ʉ ⁵,Σ+má+jé+nʉ́,Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga274,ta,3.sg.1.sg.nfut.neg,ka-ː-tà-mí,kaːΣmí,k aa Σ m i ⁵,kaː+Σ+mí,k aa + Σ + m i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga275,ta,3.sg.1.sg.nfut.neg,ka-ː-tà-má-nʉ́,kaːΣmánʉ́,k aa Σ m a ⁵ n ʉ ⁵,kaː+Σ+má+nʉ́,k aa + Σ + m a ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga276,ta,3.sg.1.du.incl.nfut.neg,na-ː-tà-mí,naːΣmí,n aa Σ m i ⁵,naː+Σ+mí,n aa + Σ + m i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga277,ta,3.sg.1.du.incl.nfut.neg,na-ː-tà-má-nʉ́,naːΣmánʉ́,n aa Σ m a ⁵ n ʉ ⁵,naː+Σ+má+nʉ́,n aa + Σ + m a ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga278,ta,3.sg.1.pl.excl.nfut.neg,ka-ː-tà-mí-hín,kaːΣmíhín,k aa Σ m i ⁵ h i ⁵ n,kaː+Σ+mí+hín,k aa + Σ + m i ⁵ + h i ⁵ n,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga279,ta,3.sg.1.pl.excl.nfut.neg,ka-ː-tà-má-hín-nʉ́,kaːΣmáhínnʉ́,k aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,kaː+Σ+má+hín+nʉ́,k aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga280,ta,3.sg.1.pl.incl.nfut.neg,na-ː-tà-mí-hín,naːΣmíhín,n aa Σ m i ⁵ h i ⁵ n,naː+Σ+mí+hín,n aa + Σ + m i ⁵ + h i ⁵ n,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga281,ta,3.sg.1.pl.incl.nfut.neg,na-ː-tà-má-nʉ́,naːΣmánʉ́,n aa Σ m a ⁵ n ʉ ⁵,naː+Σ+má+nʉ́,n aa + Σ + m a ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga282,ta,3.pl.1.sg.nfut.neg,ka-ː-tà-mí-jé,kaːΣmíjé,k aa Σ m i ⁵ j e ⁵,kaː+Σ+mí+jé,k aa + Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga283,ta,3.pl.1.sg.nfut.neg,ka-ː-tà-má-jé-nʉ́,kaːΣmájénʉ́,k aa Σ m a ⁵ j e ⁵ n ʉ ⁵,kaː+Σ+má+jé+nʉ́,k aa + Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga284,ta,3.pl.1.du.incl.nfut.neg,na-ː-tà-mí-jé,naːΣmíjé,n aa Σ m i ⁵ j e ⁵,naː+Σ+mí+jé,n aa + Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga285,ta,3.pl.1.du.incl.nfut.neg,na-ː-tà-má-jé-nʉ́,naːΣmájénʉ́,n aa Σ m a ⁵ j e ⁵ n ʉ ⁵,naː+Σ+má+jé+nʉ́,n aa + Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga286,ta,3.pl.1.pl.excl.nfut.neg,ka-ː-tà-mí-jé,kaːΣmíjé,k aa Σ m i ⁵ j e ⁵,kaː+Σ+mí+jé,k aa + Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga287,ta,3.pl.1.pl.excl.nfut.neg,ka-ː-tà-má-jé-nʉ́,kaːΣmájénʉ́,k aa Σ m a ⁵ j e ⁵ n ʉ ⁵,kaː+Σ+má+jé+nʉ́,k aa + Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga288,ta,3.pl.1.pl.excl.nfut.neg,ka-ː-tà-mí-hín,kaːΣmíhín,k aa Σ m i ⁵ h i ⁵ n,kaː+Σ+mí+hín,k aa + Σ + m i ⁵ + h i ⁵ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga289,ta,3.pl.1.pl.excl.nfut.neg,ka-ː-tà-má-hín-nʉ́,kaːΣmáhínnʉ́,k aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,kaː+Σ+má+hín+nʉ́,k aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga290,ta,3.pl.1.pl.incl.nfut.neg,na-ː-tà-mí-jé,naːΣmíjé,n aa Σ m i ⁵ j e ⁵,naː+Σ+mí+jé,n aa + Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga291,ta,3.pl.1.pl.incl.nfut.neg,na-ː-tà-má-jé-nʉ́,naːΣmájénʉ́,n aa Σ m a ⁵ j e ⁵ n ʉ ⁵,naː+Σ+má+jé+nʉ́,n aa + Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga292,ta,3.pl.1.pl.incl.nfut.neg,na-ː-tà-mí-hín,naːΣmíhín,n aa Σ m i ⁵ h i ⁵ n,naː+Σ+mí+hín,n aa + Σ + m i ⁵ + h i ⁵ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga293,ta,3.pl.1.pl.incl.nfut.neg,na-ː-tà-má-hín-nʉ́,naːΣmáhínnʉ́,n aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,naː+Σ+má+hín+nʉ́,n aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga294,ta,3.sg.2.sg.nfut.neg,a-ː-tà-mí,aːΣmí,aa Σ m i ⁵,aː+Σ+mí,aa + Σ + m i ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga295,ta,3.sg.2.sg.nfut.neg,a-ː-tà-má-nʉ́,aːΣmánʉ́,aa Σ m a ⁵ n ʉ ⁵,aː+Σ+má+nʉ́,aa + Σ + m a ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga296,ta,3.sg.2.pl.nfut.neg,a-ː-tà-mí-hín,aːΣmíhín,aa Σ m i ⁵ h i ⁵ n,aː+Σ+mí+hín,aa + Σ + m i ⁵ + h i ⁵ n,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga297,ta,3.sg.2.pl.nfut.neg,a-ː-tà-má-hín-nʉ́,aːΣmáhínnʉ́,aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,aː+Σ+má+hín+nʉ́,aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga298,ta,3.pl.2.sg.nfut.neg,a-ː-tà-mí-jé,aːΣmíjé,aa Σ m i ⁵ j e ⁵,aː+Σ+mí+jé,aa + Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga299,ta,3.pl.2.sg.nfut.neg,a-ː-tà-má-jé-nʉ́,aːΣmájénʉ́,aa Σ m a ⁵ j e ⁵ n ʉ ⁵,aː+Σ+má+jé+nʉ́,aa + Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga300,ta,3.pl.2.pl.nfut.neg,a-ː-tà-mí-jé,aːΣmíhín,aa Σ m i ⁵ h i ⁵ n,aː+Σ+mí+hín,aa + Σ + m i ⁵ + h i ⁵ n,default,non_generic_nf,,,Ozerov2025Anal,251130,analnaga
+analnaga301,ta,3.pl.2.pl.nfut.neg,a-ː-tà-má-jé-nʉ́,aːΣmájénʉ́,aa Σ m a ⁵ j e ⁵ n ʉ ⁵,aː+Σ+má+jé+nʉ́,aa + Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga302,ta,3.pl.2.pl.nfut.neg,a-ː-tà-mí-hín,aːΣmíhín,aa Σ m i ⁵ h i ⁵ n,aː+Σ+mí+hín,aa + Σ + m i ⁵ + h i ⁵ n,pragm_marked,non_generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga303,ta,3.pl.2.pl.nfut.neg,a-ː-tà-má-hín-nʉ́,aːΣmáhínnʉ́,aa Σ m a ⁵ h i ⁵ n n ʉ ⁵,aː+Σ+má+hín+nʉ́,aa + Σ + m a ⁵ + h i ⁵ n + n ʉ ⁵,pragm_marked,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga304,ta,3.sg.3.sg.nfut.neg,tà-mí,Σmí,Σ m i ⁵,Σ+mí,Σ + m i ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga305,ta,3.sg.3.sg.nfut.neg,tà-má-nʉ́,Σmánʉ́,Σ m a ⁵ n ʉ ⁵,Σ+má+nʉ́,Σ + m a ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga306,ta,3.sg.3.pl.nfut.neg,tà-mí-jé,Σmíjé,Σ m i ⁵ j e ⁵,Σ+mí+jé,Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga307,ta,3.sg.3.pl.nfut.neg,tà-má-jé-nʉ́,Σmájénʉ́,Σ m a ⁵ j e ⁵ n ʉ ⁵,Σ+má+jé+nʉ́,Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga308,ta,3.pl.3.sg.nfut.neg,tà-mí-jé,Σmíjé,Σ m i ⁵ j e ⁵,Σ+mí+jé,Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga309,ta,3.pl.3.sg.nfut.neg,tà-má-jé-nʉ́,Σmájénʉ́,Σ m a ⁵ j e ⁵ n ʉ ⁵,Σ+má+jé+nʉ́,Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga
+analnaga310,ta,3.pl.3.pl.nfut.neg,tà-mí-jé,Σmíjé,Σ m i ⁵ j e ⁵,Σ+mí+jé,Σ + m i ⁵ + j e ⁵,default,non_generic_nf,,,Ozerov2019Anal,53,analnaga
+analnaga311,ta,3.pl.3.pl.nfut.neg,tà-má-jé-nʉ́,Σmájénʉ́,Σ m a ⁵ j e ⁵ n ʉ ⁵,Σ+má+jé+nʉ́,Σ + m a ⁵ + j e ⁵ + n ʉ ⁵,default,generic_nf,,,Ozerov2025Anal,251209,analnaga

@@ -1,0 +1,9 @@
+tag_id,tag_column_name,comment,language_id
+special_stem,morphanalysis_tag,"form has a special stem form (e.g., lengthening, tone change, etc.) in particular cells of a paradigm (i.e., not stem alternation variation that holds for an entire paradigm)",analnaga
+optional_plural,overabundance_tag,form that does not contain a marker for plural (that is there in other forms with the same scenario),analnaga
+default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",analnaga
+hort,paradigm_tag,form is a hortative (not from declarative paradigm),analnaga
+pragm_marked,paradigm_tag,pragmatically conditioned variation,analnaga
+unspec_var,paradigm_tag,variant of (yet) unspecified distribution,analnaga
+generic_nf,tense_tag,generic non-future paradigm,analnaga
+non_generic_nf,tense_tag,non-generic non-future paradigm,analnaga
