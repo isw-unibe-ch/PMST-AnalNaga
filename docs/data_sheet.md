@@ -9,10 +9,10 @@ Others who contributed to this document: Thotson Langhu
 
 # Motivation
 
-**For what purpose was the dataset created?**
+**For what purpose was the data set created?**
 
 This data set was created to investigate the dynamics of person forms in Anal Naga and other South-Central Trans-Himalayan languages.
-Further background and motivation can be found in X (JOHD paper).
+Further background and motivation can be found in Auderset et al. 2026. Full citation: Auderset, Sandra \& Brown, Hunter L. \& Reich, Jonathan \& Gerber, Pascal \& Zakaria, Muhammad \& Konnerth, Linda. 2026. A Database of Person Marking in South-Central Trans-Himalayan. Journal of Open Humanities Data 12(1), 58. (doi:https://doi.org/10.5334/johd.505).
 
 **Who created the data set (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?**
 
@@ -20,12 +20,12 @@ The data set was created by a team of researchers at the Department of Linguisti
 
 **Who funded the creation of the data set?**
 
-This work is funded by SNSF (Swiss National Science Foundation) Grant 10.000.946 to Linda Konnerth at the University of Bern.
+This work is funded by SNSF (Swiss National Science Foundation) Grant 10000946 to Linda Konnerth at the University of Bern.
 
 
 # Composition
 
-Paralex datasets document paradigms of inflected forms.
+Paralex data sets document paradigms of inflected forms.
 
 **Are forms given as orthographic, phonetic, and or phonemic sequences ?** 
 
@@ -37,33 +37,32 @@ For Anal Naga, it is a version of the IPA.
 
 -   Number of inflected forms: 311
 
--   Number of unique inflected forms: 165
+-   Number of unique inflected forms: 170
 
 -   Number of unique scenarios (person, number, TAM, polarity combinations): 184
 
 -   Number of inflected forms per paradigm and subparadigm:
 
-| **Paradigm** | **n** | **Tags**                   | **n** |
-|--------------|------:|----------------------------|------:|
-| Pronouns     |    12 | default                    |     6 |
-|              |       | pragm.m                    |     2 |
-|              |       | unspec.var                 |     2 |
-|              |       | unspec.var, opt.pl         |     2 |
-| NFUT.AFF     |   100 | default, gen.nf            |    41 |
-|              |       | default, non.gen.nf        |    44 |
-|              |       | default, gen.nf, spec.stem |     3 |
-|              |       | pragm.m, gen.nf            |     6 |
-|              |       | pragm.m, non.gen.nf        |     6 |
-| NFUT.NEG     |   100 | default, gen.nf            |    44 |
-|              |       | default, non.gen.nf        |    44 |
-|              |       | pragm.m, gen.nf            |     6 |
-|              |       | pragm.m, non.gen.nf        |     6 |
-| FUT.AFF      |    49 | default                    |    33 |
-|              |       | default, spec.stem         |     6 |
-|              |       | pragm.m                    |     5 |
-|              |       | hort                       |     5 |
-| FUT.NEG      |    50 | default                    |    44 |
-|              |       | pragm.m                    |     6 |
+|paradigm |variants_tag |paradigm_tag  |analysis_tag |overabundance_tag |  n|
+|:--------|:------------|:-------------|:------------|:-----------------|--:|
+|pron     |pragm_marked |              |             |                  |  2|
+|pron     |unspecified  |              |             |optional_plural   |  2|
+|pron     |unspecified  |              |             |                  |  8|
+|fut.aff  |pragm_marked |              |             |                  |  5|
+|fut.aff  |unspecified  |hort          |             |                  |  5|
+|fut.aff  |unspecified  |              |special_stem |                  |  6|
+|fut.aff  |unspecified  |              |             |                  | 33|
+|fut.neg  |pragm_marked |              |             |                  |  6|
+|fut.neg  |unspecified  |              |             |                  | 44|
+|nfut.aff |pragm_marked |generic_nfut  |             |                  |  6|
+|nfut.aff |pragm_marked |ngeneric_nfut |             |                  |  6|
+|nfut.aff |unspecified  |generic_nfut  |special_stem |                  |  3|
+|nfut.aff |unspecified  |generic_nfut  |             |                  | 41|
+|nfut.aff |unspecified  |ngeneric_nfut |             |                  | 44|
+|nfut.neg |pragm_marked |generic_nfut  |             |                  |  6|
+|nfut.neg |pragm_marked |ngeneric_nfut |             |                  |  6|
+|nfut.neg |unspecified  |generic_nfut  |             |                  | 44|
+|nfut.neg |unspecified  |ngeneric_nfut |             |                  | 44|
 
 
 **Language varieties**
@@ -76,45 +75,45 @@ For Anal Naga, it is a version of the IPA.
 
 The data was collected in Chandel town. Dialectal variation does not seem to have much impact on person marking, therefore the present data is assumed to be largely representative of the Anal Naga language.
 
-**Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
+**Does the data set contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
 
-The dataset contains all person forms found in the language, both verbal indexes and pronouns. Hortative forms were not included in the dataset (see below for exceptions).
+The data set contains all person forms found in the language, both verbal indexes and pronouns. Hortative forms were not included in the data set (see below for exceptions).
 
 **Is any information missing from individual instances?** 
 
 In the intransitive and transitive future affirmative paradigms, there are gaps for scenarios with an inclusive S/A argument. In these cases, hortative forms are used instead.
 
-**Are there any errors, sources of noise, or redundancies in the dataset?** 
+**Are there any errors, sources of noise, or redundancies in the data set?** 
 
 No.
 
-**Is the dataset self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other datasets)?** 
+**Is the data set self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other data sets)?** 
 
-The dataset is self-contained.
+The data set is self-contained.
 
-**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionnaries), were there any complex decisions in the matching of entries from this dataset to those of the vocabularies (eg. inexact language code) ?**
+**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionnaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code) ?**
 
 NA
 
-**Does the dataset contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
+**Does the data set contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
 
-The dataset pertains to small or indigenous language communities, namely those of the Anal Naga people in Manipur and adjacent regions.
+The data set pertains to small or indigenous language communities, namely those of the Anal Naga people in Manipur and adjacent regions.
 The data are published here with the consent of the community, specifically including the approval of the community leaders (ANTA).
 
 
 # Collection process.
 
-**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other datasets ?** 
+**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other data sets ?** 
 
 The data comes from fieldwork conducted by Pavel Ozerov. Specific forms were taken from a combination of a text corpus, elicitation, and field notes. This work also forms the basis for the segmentation. 
 
 **How were paradigms separated (eg. in the case of homonyms or variants)? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
 **How was the paradigm structure (set and labels of paradigm cells) decided? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
 **What is the expertise of the contributors with the documented language ?** 
 
@@ -161,35 +160,35 @@ The data was prepared for Paralex with the open source software R using RStudio.
 
 # Uses
 
-**Has the dataset been used for any published work already?** 
+**Has the data set been used for any published work already?** 
 
 No.
 
-**What (other) tasks could the dataset be used for?**
+**What (other) tasks could the data set be used for?**
 
 It can be used for descriptive and comparative analyses.
 
-**Are there tasks for which the dataset should not be used?**
+**Are there tasks for which the data set should not be used?**
 
 No.
 
 
 # Distribution.
 
-**Will the dataset be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the dataset was created?**
+**Will the data set be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the data set was created?**
 No.
 
-**How will the dataset be distributed (for example, tarball on website, API, GitHub)?** 
+**How will the data set be distributed (for example, tarball on website, API, GitHub)?** 
 
-The dataset is available on GitHub at X and on Zenodo as part of the Paralex collection at X.
+The data set is available on GitHub at https://github.com/isw-unibe-ch and on Zenodo as part of the Paralex collection at https://doi.org/10.5281/zenodo.17881855.
 
-**Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
+**Will the data set be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
 
-The dataset is distributed under a CC-BY-SA 4.0 license.
+The data set is distributed under a CC-BY-SA 4.0 license.
 
 
 # Maintenance
 
-**If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?** 
+**If others want to extend/augment/build on/contribute to the data set, is there a mechanism for them to do so?** 
 
 For suggestions or error reports please open an issue on GitHub.
