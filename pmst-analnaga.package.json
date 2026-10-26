@@ -225,7 +225,7 @@
               "#MISSING#"
             ],
             "constraints": {
-              "pattern": "(a-ː|à-ː|á-ː|aː|tɕ|áː|éː|ʈʰ|-|a|h|j|k|m|n|s|t|v|à|á|è|é|ì|í|ú|ŋ|ə|ʉ|̀|́|Σ)+"
+              "pattern": "(a-ː|aː|tɕ|áː|éː|ʈʰ|-|a|h|j|k|m|n|s|t|v|à|á|è|é|ì|í|ú|ŋ|ə|ʉ|̀|́|Σ)+"
             },
             "rdfProperty": "https://www.paralex-standard.org/paralex_ontology.xml#orth_form"
           },
@@ -937,5 +937,5 @@
     "pronoun",
     "verb"
   ],
-  "paralex-version": "2.3.2"
+  "paralex-version": "2.3.3"
 }

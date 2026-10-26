@@ -2,7 +2,7 @@ Data set name: PMST Anal Naga
 
 Data set developer(s): Pavel Ozerov, Linda Konnerth, Sandra Auderset
 
-Data sheet author(s): Pavel Ozerov, Linda Konnerth, Sandra Auderset
+Data sheet author(s): Pavel Ozerov, Linda Konnerth
 
 Others who contributed to this document: Thotson Langhu
 
@@ -27,7 +27,7 @@ This work is funded by SNSF (Swiss National Science Foundation) Grant 10000946 t
 
 Paralex data sets document paradigms of inflected forms.
 
-**Are forms given as orthographic, phonetic, and or phonemic sequences ?** 
+**Are forms given as orthographic, phonetic, and/or phonemic sequences?** 
 
 Forms are provided as orthographic and phonemic sequences.
 The orthography is either the practical one used by the community or a version of the IPA used by linguists and language experts.
@@ -71,7 +71,7 @@ For Anal Naga, it is a version of the IPA.
 -   Glottocode: anal1239
 -   Language variety description: Anal Naga is spoken by 20,000 people primarily in Chandel District, Manipur.
 
-**Does the data pertain to specific dialects, geographical locations, genre, etc ?**
+**Does the data pertain to specific dialects, geographical locations, genre, etc?**
 
 The data was collected in Chandel town. Dialectal variation does not seem to have much impact on person marking, therefore the present data is assumed to be largely representative of the Anal Naga language.
 
@@ -91,7 +91,7 @@ No.
 
 The data set is self-contained.
 
-**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionnaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code) ?**
+**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionnaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code)?**
 
 NA
 
@@ -101,9 +101,9 @@ The data set pertains to small or indigenous language communities, namely those 
 The data are published here with the consent of the community, specifically including the approval of the community leaders (ANTA).
 
 
-# Collection process.
+# Collection process
 
-**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other data sets ?** 
+**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any? Are any information derived from other data sets?** 
 
 The data comes from fieldwork conducted by Pavel Ozerov. Specific forms were taken from a combination of a text corpus, elicitation, and field notes. This work also forms the basis for the segmentation. 
 
@@ -115,7 +115,7 @@ Design principles and theoretical choices implemented for this data set are expl
 
 Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
-**What is the expertise of the contributors with the documented language ?** 
+**What is the expertise of the contributors with the documented language?** 
 
 Pavel Ozerov: linguist specializing in South-Central Trans-Himalayan, currently working on a grammar of Anal Naga
 
@@ -130,11 +130,11 @@ Only the contributors listed at the beginning of this file.
 The data was collected between 2015 and 2025.
 
 
-# Preprocessing/cleaning/labeling.
+# Preprocessing/cleaning/labeling
 
-**How were the inflected forms obtained ?**
+**How were the inflected forms obtained?**
 
-All forms were collected from speakers. See above.
+All forms were collected from speakers (see above).
 
 **How were the phonological or phonemic transcriptions obtained?** 
 
@@ -173,9 +173,10 @@ It can be used for descriptive and comparative analyses.
 No.
 
 
-# Distribution.
+# Distribution
 
 **Will the data set be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the data set was created?**
+
 No.
 
 **How will the data set be distributed (for example, tarball on website, API, GitHub)?** 
