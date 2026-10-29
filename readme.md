@@ -19,7 +19,9 @@ For more details about the data, please consult the data\_sheet.md in the docs f
 * Tone: Anal Naga has contrastive tone. Low tone is marked with a grave accent and high tone with an acute accent, or tones are marked with numbers (1 = low, 5 = high). There are also toneless morphemes, which are left unmarked in both the orthography and the IPA. Note that there are differences in tonal analysis between this data set and data in Ozerov (2018; 2019): Person prefixes are now analyzed as toneless, and tones in the transitive non-future generic forms have been adjusted where the plural suffixes are involved. Tonal research is still ongoing. Also note that there’s a typo in Table 11 on p.52 in Ozerov 2019: instead of táː-jéː-nʉ́ it should be tà-jéː-nʉ́ (cp.p.43)
 * Descriptive statement on Anal Naga transitive indexation: Mostly, local scenarios feature double indexation of A and O; 3->SAP forms feature O indexation; and third person O forms feature A indexation. Since 3rd person in some person marker sets is not marked, the description can vary depending on whether this is considered as being unmarked or being a zero index.
 * Mapping between database paradigm labels and Anal Naga descriptive labels:
+  
     Database label = Language-specific descriptive label
+  
         - fut.aff = future affirmative
         - fut.neg = future negative
         - nfut.aff = 2 paradigms: generic and non-generic (affirmative)
